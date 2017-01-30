@@ -4,7 +4,8 @@ int main()
 {
 	printf("Test\n");
 
-	printf("add2");
+	printf("add12");
 
 	return 0;
+
 }
